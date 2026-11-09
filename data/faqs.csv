@@ -1,0 +1,11 @@
+question,answer
+What is Python?,"Python is a high-level programming language used for web development, automation, and data science."
+What is Pandas?,Pandas is a Python library used for data manipulation and analysis.
+How do I install Python?,You can install Python by downloading it from the official Python website.
+What is Google Colab?,Google Colab is a cloud-based environment where you can write and execute Python notebooks.
+What is a DataFrame?,A DataFrame is a two-dimensional table containing rows and columns.
+How do I read a CSV file using Pandas?,Use the pandas read_csv() function to load a CSV file into a DataFrame.
+What is data cleaning?,"Data cleaning is the process of fixing missing values, duplicates, and incorrect data."
+What is NumPy?,NumPy is a Python library used for numerical computing and working with arrays.
+What is machine learning?,Machine learning is a field of artificial intelligence where computers learn patterns from data.
+What is an embedding?,An embedding is a numerical representation of text that captures its meaning.
